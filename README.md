@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="![justvapour](https://user-images.githubusercontent.com/65224451/138843377-a99cdcbb-9014-45d4-b92d-10c983cd3f47.gif)" alt="animated" />
+  ![justvapour](https://user-images.githubusercontent.com/65224451/138843635-42ad5e07-46cc-41d1-ba86-544bd71107f4.gif)
 </p>
 
 ## About Me
