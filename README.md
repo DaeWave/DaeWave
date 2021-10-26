@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  ![justvapour](https://user-images.githubusercontent.com/65224451/138843635-42ad5e07-46cc-41d1-ba86-544bd71107f4.gif)
+  <img src="https://user-images.githubusercontent.com/65224451/138843635-42ad5e07-46cc-41d1-ba86-544bd71107f4.gif" />
 </p>
 
 ## About Me
