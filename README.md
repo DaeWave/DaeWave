@@ -1,6 +1,8 @@
-### < Hello there I'm Damian - [DaeWave] 🥑 />
+<p align="center">
+ <h1> < Hello there I'm Damian - [DaeWave] 🥑 /> </h1>
+</p>
 
-<br>
+<br></br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/65224451/138844428-4e44c0b3-f223-4c64-a743-ad8ade2f4653.gif" />
