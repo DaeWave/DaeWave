@@ -29,8 +29,9 @@ I found myself coding small projects at first but then eventually decided to car
   <li>
     🌵 Planning on turning to a full Linux. 
   </li>
-    🎵 Fun fact: I'm a sucker for a good tune. 🎵
   <li>
+    🎵 Fun fact: I'm a sucker for a good tune. 🎵
+  </li>
 </ul>
 
 <br></br>
