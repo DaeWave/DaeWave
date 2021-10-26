@@ -16,12 +16,15 @@ I found myself coding small projects at first but then eventually decided to car
 <br></br>
 
 <h2 align="center"> Working harder every day to become the best Full-Stack Dev I can be!💯 </h2> 
+<ul>
 
 - 🥇 Trying to learn anything I can get my hands on! 🥇
 - 👽 Currently learning three.js so that I can build an awesome 3D personal website! 👽
 - 🍎 Always looking for a collaboration. 🍎
 - 🌵 Planning on turning to a full Linux. 
 - 🎵 Fun fact: I'm a sucker for a good tune. 🎵
+
+</ul>
 
 <br></br>
 
@@ -33,4 +36,3 @@ I found myself coding small projects at first but then eventually decided to car
 
 <br></br>
 
-<h2 align="center"> ☎️ Connect with me ☎️ </h2> 
