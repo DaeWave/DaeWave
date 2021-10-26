@@ -1,6 +1,6 @@
 <br></br>
 
-<h1 align="center"> < Hello there I'm Damian - aka[DaeWave] /> </h1>
+<h1 align="center"> <u> < Hello there I'm Damian - aka[DaeWave] /> </u> </h1>
 
 <br></br>
 
@@ -12,6 +12,8 @@
 Just recently started my coding journey and only wish to become a good all-around full-stack developer!
 I found myself coding small projects at first but then eventually decided to carry on one day finding myself at a coding Bootcamp **HyperionDev**. Since then I have forever been creating projects honing my skills to eventually become comfortable with multiple languages and creating projects that either created practical world examples or practising projects to have a better understanding of programming concepts.
 
+<br></br>
+
 <h2 align="center"> Working harder every day to become the best Full-Stack Dev I can be!💯 </h2> 
 - 🥇 Trying to learn anything I can get my hands on! 🥇
 - 👽 Currently learning three.js so that I can build an awesome 3D personal website! 👽
@@ -19,9 +21,13 @@ I found myself coding small projects at first but then eventually decided to car
 - 🌵 Planning on turning to a full Linux. 
 - 🎵 Fun fact: I'm a sucker for a good tune. 🎵
 
+<br></br>
+
 <h2 align="center"> 🎆 Goals for 2021 🎆 </h2>
 - Try to get into more collaborations with people!
 - Try to build beautiful websites with three.js.
 - Try to contribute to more Open-Source Projects.
+
+<br></br>
 
 <h2 align="center"> ☎️ Connect with me ☎️ </h2> 
