@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="C:\Users\loust\Pictures\CV&Stuff\justvapour.gif" alt="animated" />
+  <img src="![justvapour](https://user-images.githubusercontent.com/65224451/138843377-a99cdcbb-9014-45d4-b92d-10c983cd3f47.gif)" alt="animated" />
 </p>
 
 ## About Me
