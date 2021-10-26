@@ -17,21 +17,16 @@ I found myself coding small projects at first but then eventually decided to car
 
 <h2 align="center"> Working harder every day to become the best Full-Stack Dev I can be!💯 </h2> 
 <ul align="center">
-  <ul>
-     🥇 Trying to learn anything I can get my hands on! 🥇
-  </ul>
-  <li>
-     👽 Currently learning three.js so that I can build an awesome 3D personal website! 👽
-  </li>
-  <li>
-     🍎 Always looking for a collaboration. 🍎
-  </li>
-  <li>
-     🌵 Planning on turning to a full Linux. 
-  </li>
-  <li>
-     🎵 Fun fact: I'm a sucker for a good tune. 🎵
-  </li>
+
+     -🥇 Trying to learn anything I can get my hands on! 🥇
+
+     -👽 Currently learning three.js so that I can build an awesome 3D personal website! 👽
+
+     -🍎 Always looking for a collaboration. 🍎
+
+     -🌵 Planning on turning to a full Linux. 
+
+     -🎵 Fun fact: I'm a sucker for a good tune. 🎵
 </ul>
 
 <br></br>
