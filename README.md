@@ -16,7 +16,7 @@ I found myself coding small projects at first but then eventually decided to car
 <br></br>
 
 <h2 align="center"> Working harder every day to become the best Full-Stack Dev I can be!💯 </h2> 
-<ul>
+<ul align="center">
   <li>
     🥇 Trying to learn anything I can get my hands on! 🥇
   </li>
@@ -37,7 +37,7 @@ I found myself coding small projects at first but then eventually decided to car
 <br></br>
 
 <h2 align="center"> 🎆 Goals for 2021 🎆 </h2>
-<ul>
+<ul align="center">
   <li>
     Try to get into more collaborations with people!
   </li>
