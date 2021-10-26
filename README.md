@@ -18,28 +18,35 @@ I found myself coding small projects at first but then eventually decided to car
 <h2 align="center"> Working harder every day to become the best Full-Stack Dev I can be!💯 </h2> 
 <ul>
   <li>
-    - 🥇 Trying to learn anything I can get my hands on! 🥇
+    🥇 Trying to learn anything I can get my hands on! 🥇
   </li>
   <li>
-    - 👽 Currently learning three.js so that I can build an awesome 3D personal website! 👽
+    👽 Currently learning three.js so that I can build an awesome 3D personal website! 👽
   </li>
   <li>
-    - 🍎 Always looking for a collaboration. 🍎
+    🍎 Always looking for a collaboration. 🍎
   </li>
   <li>
-    - 🌵 Planning on turning to a full Linux. 
+    🌵 Planning on turning to a full Linux. 
   </li>
-    - 🎵 Fun fact: I'm a sucker for a good tune. 🎵
+    🎵 Fun fact: I'm a sucker for a good tune. 🎵
   <li>
-  </li>
 </ul>
 
 <br></br>
 
 <h2 align="center"> 🎆 Goals for 2021 🎆 </h2>
-- Try to get into more collaborations with people!
-- Try to build beautiful websites with three.js.
-- Try to contribute to more Open-Source Projects.
+<ul>
+  <li>
+    - Try to get into more collaborations with people!
+  </li>
+  <li>
+    - Try to build beautiful websites with three.js.
+  </li>
+  <li>
+    - Try to contribute to more Open-Source Projects.
+  </li>
+</ul>
 
 <br></br>
 
