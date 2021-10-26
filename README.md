@@ -39,13 +39,13 @@ I found myself coding small projects at first but then eventually decided to car
 <h2 align="center"> 🎆 Goals for 2021 🎆 </h2>
 <ul>
   <li>
-    - Try to get into more collaborations with people!
+    Try to get into more collaborations with people!
   </li>
   <li>
-    - Try to build beautiful websites with three.js.
+    Try to build beautiful websites with three.js.
   </li>
   <li>
-    - Try to contribute to more Open-Source Projects.
+    Try to contribute to more Open-Source Projects.
   </li>
 </ul>
 
