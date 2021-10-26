@@ -17,15 +17,10 @@ I found myself coding small projects at first but then eventually decided to car
 
 <h2 align="center"> Working harder every day to become the best Full-Stack Dev I can be!💯 </h2> 
 <ul align="center">
-
      -🥇 Trying to learn anything I can get my hands on! 🥇
-
      -👽 Currently learning three.js so that I can build an awesome 3D personal website! 👽
-
      -🍎 Always looking for a collaboration. 🍎
-
      -🌵 Planning on turning to a full Linux. 
-
      -🎵 Fun fact: I'm a sucker for a good tune. 🎵
 </ul>
 
@@ -33,15 +28,9 @@ I found myself coding small projects at first but then eventually decided to car
 
 <h2 align="center"> 🎆 Goals for 2021 🎆 </h2>
 <ul align="center">
-  <li>
-    Try to get into more collaborations with people!
-  </li>
-  <li>
-    Try to build beautiful websites with three.js.
-  </li>
-  <li>
-    Try to contribute to more Open-Source Projects.
-  </li>
+    -Try to get into more collaborations with people!
+    -Try to build beautiful websites with three.js.
+    -Try to contribute to more Open-Source Projects.
 </ul>
 
 <br></br>
