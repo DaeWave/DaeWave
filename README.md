@@ -17,9 +17,9 @@ I found myself coding small projects at first but then eventually decided to car
 
 <h2 align="center"> Working harder every day to become the best Full-Stack Dev I can be!💯 </h2> 
 <ul align="center">
-  <li>
+  <ul>
      🥇 Trying to learn anything I can get my hands on! 🥇
-  </li>
+  </ul>
   <li>
      👽 Currently learning three.js so that I can build an awesome 3D personal website! 👽
   </li>
