@@ -1,6 +1,4 @@
-<p align="center">
- <h1> < Hello there I'm Damian - [DaeWave] 🥑 /> </h1>
-</p>
+<h1 align="center"> < Hello there I'm Damian - [DaeWave] 🥑 /> </h1>
 
 <br></br>
 
