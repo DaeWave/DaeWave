@@ -40,7 +40,11 @@ I found myself coding small projects at first but then eventually decided to car
 <br></br>
 
 <h2 align="center"> ☎️ Connect with me ☎️ </h2> 
- [<img align="center" width="26px" src="https://user-images.githubusercontent.com/65224451/139203197-ef7d03bb-314d-4b49-a0c8-e1b60b391526.png"/>][linkedin]
+
+<p align="center">
+  
+[<img align="center" width="26px" src="https://user-images.githubusercontent.com/65224451/139203197-ef7d03bb-314d-4b49-a0c8-e1b60b391526.png"/>][linkedin]
+</p>  
   
 <br></br>
 
