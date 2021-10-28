@@ -49,4 +49,4 @@ I found myself coding small projects at first but then eventually decided to car
 
 
 
-[linkedin]: www.linkedin.com/in/damian-lousteau
+[linkedin]: https://www.linkedin.com/in/damian-lousteau?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwxyaJ69gRnyyoumh3QVJ4Q%3D%3D
