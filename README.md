@@ -40,19 +40,15 @@ I found myself coding small projects at first but then eventually decided to car
 <br></br>
 
 <h2 align="center"> ☎️ Connect with me ☎️ </h2> 
-
-[<img align="center" width="26px" src="https://user-images.githubusercontent.com/65224451/139203197-ef7d03bb-314d-4b49-a0c8-e1b60b391526.png"/>][linkedin]
-
+<p align="center">
+  [<img align="center" width="26px" src="https://user-images.githubusercontent.com/65224451/139203197-ef7d03bb-314d-4b49-a0c8-e1b60b391526.png"/>][linkedin]
+</p>
+  
 <br></br>
 
 <h2 align="center"> Stats </h2>
-
-<img align="center" alt="DaeWave Github Stats" src="https://github-readme-stats.vercel.app/api?username=DaeWave&show_icons=true&hide_border=true)"/>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
+<p align="center">
+  <img alt="DaeWave Github Stats" src="https://github-readme-stats.vercel.app/api?username=DaeWave&show_icons=true&hide_border=true)"/>
+</p>
 
 [linkedin]: https://www.linkedin.com/in/damian-lousteau?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwxyaJ69gRnyyoumh3QVJ4Q%3D%3D
