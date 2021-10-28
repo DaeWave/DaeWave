@@ -43,8 +43,11 @@ I found myself coding small projects at first but then eventually decided to car
 
 [<img align="center" width="26px" src="https://user-images.githubusercontent.com/65224451/139203197-ef7d03bb-314d-4b49-a0c8-e1b60b391526.png"/>][linkedin]
 
+<br></br>
 
+<h2 align="center"> Stats </h2>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiDaeWave=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
