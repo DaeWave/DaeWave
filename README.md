@@ -43,7 +43,8 @@ I found myself coding small projects at first but then eventually decided to car
 
 <p align="center">
   
-[<img align="center" width="26px" src="https://user-images.githubusercontent.com/65224451/139203197-ef7d03bb-314d-4b49-a0c8-e1b60b391526.png"/>][linkedin]
+  [<img width="26px" src="https://user-images.githubusercontent.com/65224451/139203197-ef7d03bb-314d-4b49-a0c8-e1b60b391526.png"/>][linkedin]
+  
 </p>  
   
 <br></br>
