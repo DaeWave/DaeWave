@@ -1,57 +1,44 @@
-<br></br>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damian Lousteau
+=======================================================================================================================================
 
-<h1 align="center"> <u> < Hello there I'm Damian - aka[DaeWave] /> </u> </h1>
+Full-Stack Web Developer
+------------------------
 
-<br></br>
+My name is Damian Lousteau and love to submerge myself in the world of tech. Tech has truly become prominent in the way in which I observe the world and think about how problems can be solved through advancements in technology. I have been creating projects honing my skills to eventually become comfortable with multiple languages and creating projects that either created practical real-world examples or practising projects to have a better understanding of programming concepts.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65224451/138844428-4e44c0b3-f223-4c64-a743-ad8ade2f4653.gif"/>
+* 🌍  I'm based in Cambodia
+* ✉️  You can contact me at [lousteaudamian@gmail.com](mailto:lousteaudamian@gmail.com)
+* 🧠  I'm learning Next.js along with Three.js and Designing these components together.
+* 🤝  I'm open to collaborating on Any Good Idea!!
+
+### Skills
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<h2 align="center"> About Me </h2>
-<p align="center"> Just recently started my coding journey and only wish to become a good all-around full-stack developer!
-I found myself coding small projects at first but then eventually decided to carry on one day finding myself at a coding Bootcamp **HyperionDev**. Since then I have forever been creating projects honing my skills to eventually become comfortable with multiple languages and creating projects that either created practical world examples or practising projects to have a better understanding of programming concepts.
-</p>
 
-<br></br>
+### Socials
 
-<h2 align="center"> Working harder every day to become the best Full-Stack Dev I can be!💯 </h2> 
-<ul align="center">
+<p align="left"> <a href="https://www.github.com/DaeWave" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/damian-lousteau" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-- 🥇 Trying to learn anything I can get my hands on! 🥇
-- 👽 Currently learning three.js so that I can build an awesome 3D personal website! 👽
-- 🍎 Always looking for a collaboration. 🍎
-- 🌵 Planning on turning to a full Linux. 
-- 🎵 Fun fact: I'm a sucker for a good tune. 🎵
+### Badges
 
-</ul>
+<b>My GitHub Stats</b>
 
-<br></br>
+<a href="http://www.github.com/DaeWave"><img src="https://github-readme-stats.vercel.app/api?username=DaeWave&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DaeWave's GitHub stats" /></a>
 
-<h2 align="center"> 🎆 Goals for 2021 🎆 </h2>
-<ul align="center">
-
-- Try to get into more collaborations with people!
-- Try to build beautiful websites with three.js.
-- Try to contribute to more Open-Source Projects.
-
-</ul>
-
-<br></br>
-
-<h2 align="center"> ☎️ Connect with me ☎️ </h2> 
-
-<p align="center">
-  
-  [<img width="26px" src="https://user-images.githubusercontent.com/65224451/139203197-ef7d03bb-314d-4b49-a0c8-e1b60b391526.png"/>][linkedin]
-  
-</p>  
-  
-<br></br>
-
-<h2 align="center"> Stats </h2>
-<p align="center">
-  <img alt="DaeWave Github Stats" src="https://github-readme-stats.vercel.app/api?username=DaeWave&show_icons=true&hide_border=true)"/>
-</p>
-
-[linkedin]: https://www.linkedin.com/in/damian-lousteau?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwxyaJ69gRnyyoumh3QVJ4Q%3D%3D
+<a href="https://github.com/DaeWave" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaeWave&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
